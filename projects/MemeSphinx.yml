@@ -1,0 +1,12 @@
+name: MemeSphinx  # required
+tagline: 
+showcaseUrl: https://ethglobal.com/showcase/memesphinx-ep7k8
+sourceCodeUrl: https://github.com/apac-chainchanger/MemeSphinx
+liveDemoUrl: Telegram Bot @MemeSphinxBot
+social: # optional
+  x: NousWong
+  github: SeungwoonSong
+team: # optional
+  -
+    name: jaeryong Song
+    github: ft-jasong
